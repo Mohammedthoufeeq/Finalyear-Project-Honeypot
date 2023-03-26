@@ -17,7 +17,7 @@ To run the honeypot framework, follow these steps:
     Choose a service to run:
         1: FTP Honeypot
         2: Web Honeypot
-        3: FTP Honeypot Analysis
+        3: Honeypot Analysis
         0: Install Dependencies
         4: Exit
 
