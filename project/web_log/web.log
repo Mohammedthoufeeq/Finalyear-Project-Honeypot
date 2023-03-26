@@ -1,0 +1,26 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.58.181:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:09] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Select , Password: <script>
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:33] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:34] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Admin, Password: ;
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:45] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:47] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Hello, Password: hello
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:53] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:55] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Dkdk, Password: djjdj
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:59] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:42:59] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Ndmdmdm, Password: bdjdjdjkd
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:05] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:06] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Dkdkd, Password: dhjsjsj
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:12] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:13] "GET /login HTTP/1.1" 200 -
+WARNING:root:Username: Brnrjr, Password: njdjdkdk
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:19] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:192.168.58.52 - - [26/Mar/2023 15:43:21] "GET /login HTTP/1.1" 200 -
