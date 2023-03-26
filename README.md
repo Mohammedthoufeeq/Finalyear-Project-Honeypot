@@ -2,7 +2,7 @@
 
 Honeypot Framework
 
-This is a Python-based honeypot framework that includes FTP honeypot, web honeypot, and FTP honeypot analysis scripts.
+This is a Python-based honeypot framework that includes FTP honeypot, web honeypot, and honeypot analysis scripts.
 Installation
 
     Clone the repository: git clone https://github.com/Mohammedthoufeeq/Finalyear-Project-Honeypot.git
