@@ -6,5 +6,5 @@ packages = ['socket', 'logging', 'datetime', 'threading',
 
 # Installing packages
 for package in packages:
-    subprocess.call(['pip', 'install', package])
+    subprocess.call(['pip3', 'install', package])
 
